@@ -1,0 +1,13 @@
+
+{
+  "cat_ids": [-1, 1],
+  "per_image": [
+    {
+      "index": 0,
+      "masks": {
+        "1": ["demo/masks/s0_handrail.png"]
+      }
+    }
+  ]
+}
+
